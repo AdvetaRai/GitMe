@@ -1,3 +1,4 @@
 # GitMe
-This is my 1st Repository.Br
+This is my 1st Repository.
+<br>
 Author - Adveta Rai
